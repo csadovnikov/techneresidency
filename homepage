@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
-<title>techne residency</title>
   <head>
-  Techne Residency
+  <title>techne residency</title>
   </head>
+   <body style="text-align: left;">
+    <h1>Techne Residency</h1>
    <body>
    an online residency for artists bridging the fields of craft and technology
    </body>
